@@ -31,3 +31,5 @@ CREATE TABLE [dbo].[AirlineInfo](
 )
 
 
+
+![image](https://user-images.githubusercontent.com/83830788/182414421-02271e76-f65a-4324-984a-c6d39afff8a2.png)
